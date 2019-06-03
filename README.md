@@ -21,3 +21,9 @@ The main sources, on top of websites visited for specific countries, are the fol
 - Intrastat thresholds, provided by Eurostat, for years 1994-2003 and 2005
 
 In the last column of the file, some links are provided when the information comes from a specific website.
+
+## Citation
+
+If you find the data useful, please cite me!
+
+Bussy, A. (2019). "Historical Values of Intrastat Thresholds". https://github.com/adbussy/EU-Intrastat-exemption-thresholds
