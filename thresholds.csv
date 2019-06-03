@@ -148,6 +148,7 @@ year,country,threshold_exp,currency_exp,exchangerate_exp,threshold_exp_eur,thres
 2016,"DE",500000,"EUR ",1,500000,800000,"EUR",1,800000,"https://www.hannover.ihk.de/internationalzoll/ein-und-ausfuhrbestimmungen/eu-handel/intrastat0.html"
 2017,"DE",500000,"EUR",1,500000,800000,"EUR",1,800000,""
 2018,"DE",500000,"EUR",1,500000,800000,"EUR",1,800000,""
+2019,"DE",500000,"EUR",1,500000,800000,"EUR",1,800000,""
 2004,"EE",63912,"EUR",1,63912,63912,"EUR",1,63912,"https://www.stat.ee/55634"
 2005,"EE",63912,"EUR",1,63912,63912,"EUR",1,63912,""
 2006,"EE",127823,"EUR",1,127823,127823,"EUR",1,127823,""
@@ -588,3 +589,4 @@ year,country,threshold_exp,currency_exp,exchangerate_exp,threshold_exp_eur,thres
 2016,"SK",400000,"EUR",1,400000,200000,"EUR",1,200000,""
 2017,"SK",400000,"EUR",1,400000,200000,"EUR",1,200000,""
 2018,"SK",400000,"EUR",1,400000,200000,"EUR",1,200000,""
+2019,"SK",400000,"EUR",1,400000,200000,"EUR",1,200000,""
