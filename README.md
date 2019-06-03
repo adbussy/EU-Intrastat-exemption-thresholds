@@ -10,12 +10,14 @@ For each EU member, the file thersholds.csv provides the country-specific exempt
 
 ## Sources
 
-The main sources are the following:
+The main sources, on top of websites visited for specific countries, are the following:
 
-- the EY Worldwide VAT, GST and Sales Tax Guides for years 2005-2018
+- The EY Worldwide VAT, GST and Sales Tax Guides for years 2005-2018
 - For the UK, "Intrastat thresholds (1993 to date)" by the HMRC
 - "High Level Group on Administrative Burdens", Case Study on ABRplus Item No. 6 for 2013-2014
 - "Trocas comerciais entre Portugal e a União Europeia na óptica de Portugal e na dos países comunitários 2005 – 2008" for 2006-2008
 - "Statistik des Warenverkehrs Benutzerleitfaden", Luxemburg: Amt für amtliche Veröffentlichungen der Europäischen Gemeinschaften, 2002 for 1993-2001
 - "National requirements for the Intrastat system" 2018 Edition by Eurostat, for 2017-2018
 - Intrastat thresholds, provided by Eurostat, for years 1994-2003 and 2005
+
+In the last column of the file, some links are provided when the information comes from a specific website.
