@@ -1,4 +1,4 @@
-# EU Intrastat exemption thresholds
+# EU Intrastat exemption thresholds 1993-2019
 This repository stores the Intrastat exemption thresholds for all EU members from max(1993, date of joining the EU) to 2019.
 
 ## Disclaimer
