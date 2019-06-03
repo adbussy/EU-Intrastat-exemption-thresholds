@@ -26,4 +26,4 @@ In the last column of the file, some links are provided when the information com
 
 If you find the data useful, please cite me!
 
-Bussy, A. (2019). "Historical Values of Intrastat Thresholds". https://github.com/adbussy/EU-Intrastat-exemption-thresholds
+Bussy, A. (2019). "Historical Values of Intrastat Thresholds 1993-2019". https://github.com/adbussy/EU-Intrastat-exemption-thresholds
